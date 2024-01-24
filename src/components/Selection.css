@@ -1,0 +1,10 @@
+.selection-container {
+    margin-inline: auto;
+    background-color: #17438a;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 40px;
+  }
+  
